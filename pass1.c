@@ -1,3 +1,7 @@
+//this program simulates the working of pass 1 of a two pass assembler in SIC
+//input.txt contains the SIC program
+//intermediate.txt is the file generated as output containing the address of each instruction
+//length.txt is the file generated as output containing the length of the program
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
